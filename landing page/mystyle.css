@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+}
+h1{
+    font-family: lucida Handwriting;
+    color:rgp(150,108,30);
+    position:absolute;
+    top:20%;
+    right:60%;
+    font-size: xx-large;
+}
+h2{
+    color: #012290f7;
+    top: 38%;
+    right:60%;font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+
+}
+p{
+    color: rgp(146,107,107);
+    position: absolute;
+    right: 50%;;top:50%;left: 5%;
+    font-size: 21px;
+}
+.tags{
+    position: absolute;
+    top: 5%;
+    font-size: 20px;
+    right: 55%;
+}
+.tags a{
+    margin-right: 30px;
+    color: white;
+}
